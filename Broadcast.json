@@ -1,6 +1,8 @@
 [
   {
-    "event": "ריאל מדריד נגד ברצלונה'",
+    "event": "ריאל מדריד נגד ברצלונה",
     "url": "https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8?mirajliv",
-  },
+    "startTime": "22:00",
+    "endTime": "00:00"
+  }
 ]
