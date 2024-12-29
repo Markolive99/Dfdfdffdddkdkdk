@@ -1,217 +1,380 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="ערוצים ישראלים",
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/35168
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/siVUYp.png" group-title="ISRAEL | TV",|ISR| HOT סרטים 1
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214324
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/siVUYp.png" group-title="ISRAEL | TV",|ISR| HOT סרטים 2
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214323
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/siVUYp.png" group-title="ISRAEL | TV",|ISR| HOT סרטים 3
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214322
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/siVUYp.png" group-title="ISRAEL | TV",|ISR| HOT סרטים 4
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214321
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/237yFg.png" group-title="ISRAEL | TV",|ISR| ערוץ ההיסטוריה
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214316
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| הדרמות הטורקיות 1
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214314
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| הדרמות הטורקיות 2
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214313
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| הדרמות הטורקיות  3
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214312
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| הדרמות הטורקיות פלוס
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214311
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/tgtHFI.png" group-title="ISRAEL | TV",|ISR| HOT סרטים ישראליים 
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214310
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| HOT בידור ישראלי 
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214308
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/4uULZw.png" group-title="ISRAEL | TV",|ISR| ספורט 1
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214305
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/VFEtBV.png" group-title="ISRAEL | TV",|ISR| ספורט 2
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214304
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/Tmuh1k.png" group-title="ISRAEL | TV",|ISR| ספורט 4
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214303
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/mTuGDc.png" group-title="ISRAEL | TV",|ISR| ספורט 4
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214302
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/wwVbU9.png" group-title="ISRAEL | TV",|ISR| ספורט 5
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214301
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/xUcW7j.png" group-title="ISRAEL | TV",|ISR| ספורט 5 פלוס
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214300
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/TSQT2t.png" group-title="ISRAEL | TV",|ISR| ספורט 5 לייב
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214299
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/AlvPmG.png" group-title="ISRAEL | TV",|ISR| ONE 1 SPORT
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214298
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/ySJxZ5.png" group-title="ISRAEL | TV",|ISR| ONE 2 SPORT
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214297
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/NMMVgV.png" group-title="ISRAEL | TV",|ISR| ספורט 5 GOLD
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214296
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/WeZrI8.png" group-title="ISRAEL | TV",|ISR| דיסני
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214295
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/ne7IYh.png" group-title="ISRAEL | TV",|ISR| דיסני ג'וניור 
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214294
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| הופ ילדות ישראלית
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214293
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| זום
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214292
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/SqkqLd.png" group-title="ISRAEL | TV",|ISR| נישונאל ג'אוגרפיק
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214291
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/upSQ3p.png" group-title="ISRAEL | TV",|ISR| Discovery
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214290
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| Jim Jam
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214289
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| ערוץ האוכל
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214288
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| ערוץ הטיולים
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214287
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/ZUW37k.png" group-title="ISRAEL | TV",|ISR| ערוץ הבתים
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214286
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| ערוץ הבריאות
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214285
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/EudIsR.png" group-title="ISRAEL | TV",|ISR| ויוה
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214284
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/6Qf2tV.png" group-title="ISRAEL | TV",|ISR| ויוה פלוס
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214283
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| אגו
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214282
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/W1ORKV.png" group-title="ISRAEL | TV",|ISR| ניקולודיאון
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214281
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/siVUYp.png" group-title="ISRAEL | TV",|ISR| ספורט 5 סטאר
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214280
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/dmZ89a.png" group-title="ISRAEL | TV",|ISR| ערוץ החיות
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214279
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/eDNFQ6.png" group-title="ISRAEL | TV",|ISR| הופ
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214278
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/ROLnb2.png" group-title="ISRAEL | TV",|ISR| נישונאל ג'אוגרפי HD
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214277
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| בייבי
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214276
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/fJqpJk.png" group-title="ISRAEL | TV",|ISR| ג'וניור 
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/121427 
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/0fRD2A.png" group-title="ISRAEL | TV",|ISR|  Discovery ID
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214273
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/XSedpQ.png" group-title="ISRAEL | TV",|ISR|  TLC
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214272
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/siVUYp.png" group-title="ISRAEL | TV",|ISR| כאן 33 
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214271
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/j0rJRZ.png" group-title="ISRAEL | TV",|ISR| החיים הטובים
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214270
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/XcRI8C.png" group-title="ISRAEL | TV",|ISR| ערוץ 9
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214269
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/qyUcke.png" group-title="ISRAEL | TV",|ISR| כאן 11
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214268
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/JNZdly.png" group-title="ISRAEL | TV",|ISR| קשת 12
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214267
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/SeVmyO.png" group-title="ISRAEL | TV",|ISR| רשת 13
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214266
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/Ev8yB2.png" group-title="ISRAEL | TV",|ISR| ערוץ 14
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214265
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/5jEJfa.png" group-title="ISRAEL | TV",|ISR| ערוץ 21
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214718
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/XhIwh5.png" group-title="ISRAEL | TV",|ISR| ערוץ הכנסת
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214717
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/QfSBAo.png" group-title="ISRAEL | TV",|ISR| כאן בערבית 33
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214716
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/bRVfeZ.png" group-title="ISRAEL | TV",|ISR| ערוץ 66
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214715
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/5yEYpC.png" group-title="ISRAEL | TV",|ISR| ערוץ 97
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214714
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/bM9355.png" group-title="ISRAEL | TV",i24news באנגלית
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214713
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/CjmFl6.png" group-title="ISRAEL | TV",|ISR| ספורט 5 סטאר
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214712
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/nuZ4SC.png" group-title="ISRAEL | TV",|ISR| YES Eurosport 1
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214711
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES EuroSport 2
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214710
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/N37p1x.png" group-title="ISRAEL | TV",|ISR| YES סרטי אקשן
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214709
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/LnE197.png" group-title="ISRAEL | TV",|ISR| YES סרטי דרמה
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214708
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/n6oxcz.png" group-title="ISRAEL | TV",|ISR| YES סרטי קומדיה
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214707
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/755KCf.png" group-title="ISRAEL | TV",|ISR| YES סרטי ילדים
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214706
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/BGf34n.png" group-title="ISRAEL | TV",|ISR| YES סדרות אקשן
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214705
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/Wz1fAz.png" group-title="ISRAEL | TV",|ISR| YES סדרות דרמה
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214704
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/mexQxA.png" group-title="ISRAEL | TV",|ISR| YES סדרות קומדיה 
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214703
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/TxMUqT.png" group-title="ISRAEL | TV",|ISR| MTV 00s
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214702
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/YZoQAu.png" group-title="ISRAEL | TV",ערוץ מאיר
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214701
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| ערוץ הים תיכוני 25
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214700
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/gtdl67.png" group-title="ISRAEL | TV",|ISR| YES דוקו
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214699
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/1yozuh.png" group-title="ISRAEL | TV",|ISR|  מוזיקה ישראלית
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214698
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/jenXM9.png" group-title="ISRAEL | TV",|ISR| האלה טי וי
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214697
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/kDgp1A.png" group-title="ISRAEL | TV",|ISR| MTV 
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214696
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/WykQXm.png" group-title="ISRAEL | TV",|ISR| TeenNick
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214695
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/dOvNQS.png" group-title="ISRAEL | TV",|ISR| YES Fashion
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214694
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/922/5VYB2I.png" group-title="ISRAEL | TV",|ISR| YES CBS Reality
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214693
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES GTV
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214692
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/924/fHsFEI.png" group-title="ISRAEL | TV",|ISR| הידברות
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214691
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES IETV
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214690
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES TVE
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214689
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES TVRi
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214688
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES RTL
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214687
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES Club MTV
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214686
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES Sky News
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214685
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES Fox News
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214684
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES Channel 24
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214683
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES CNN
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214682
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES Kan Education
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214681
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES REN TV
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214680
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES France 3
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214679
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES France 24
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214678
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES CGTN Docu
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214677
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES ZeeTV
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214676
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES The Shopping
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214675
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES EuroStar
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214674
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES Wiz Kidz
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214673
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES Jim Jam
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214672
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES France 2
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214671
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES TVCI
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214670
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES MTV 80 s
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214669
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/WQoVED.png" group-title="ISRAEL | TV",|ISR| YES Metv
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214668
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/r/924/AsBqRG.png" group-title="ISRAEL | TV",|ISR| YES ARTe
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214667
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/qyUcke.png" group-title="ISRAEL | TV",|ISR| YES Kan 11 SD
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214666
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/SeVmyO.png" group-title="ISRAEL | TV",|ISR| YES 13 Reshet SD
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214665
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/QfSBAo.png" group-title="ISRAEL | TV",|ISR| YES Kan 33 Makan SD
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214664
-#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/300x350q90/923/eU0qwF.png" group-title="ISRAEL | TV",|ISR| HOT MTV Hits
-http://1234up.com:8080/DDjketGaTW35vR95/sUfzN09DwfUKqVN1/1214264
+#EXTM3U 
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/BIG-BROTHER-ISRAEL.png" group-title="ISRAEL VIP",ISR| BIG BROTHER ISRAEL
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1241238&extension=ts&play_token=O9EPDyQrcr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/apluskids.png" group-title="ISRAEL VIP",ISR| A PLUS KIDS
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=79243&extension=ts&play_token=Mr1gt3ysHo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/ANIMAL-PLANET.png" group-title="ISRAEL VIP",ISR| ANIMAL PLANET
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=79238&extension=ts&play_token=wUbM2pDXpJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/arutz13.jpg" group-title="ISRAEL VIP",ISR| ARUTZ 13 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37729&extension=ts&play_token=yruPouwaaJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/BABY.png" group-title="ISRAEL VIP",ISR| BABY TV
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37727&extension=ts&play_token=BpmUOAAprf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/CBS-REALITY.png" group-title="ISRAEL VIP",ISR| CBS REALITY
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59330&extension=ts&play_token=dgG6dWfHzO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/CHANNEL-1-RUSSIA.png" group-title="ISRAEL VIP",ISR| CHANNEL 1 RUSSIA
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163286&extension=ts&play_token=pMBFtfXJKq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/channel2news.jpg" group-title="ISRAEL VIP",ISR| CHANNEL 2 NEWS
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59328&extension=ts&play_token=I6pP1f7IRp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/CHANNEL-9.png" group-title="ISRAEL VIP",ISR| CHANNEL 9
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37726&extension=ts&play_token=VGqmmBFBgO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/CHANNEL-11.png" group-title="ISRAEL VIP",ISR| CHANNEL 11 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59337&extension=ts&play_token=pnEPcJT5ev
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/CHANNEL-12.png" group-title="ISRAEL VIP",ISR| CHANNEL 12 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59336&extension=ts&play_token=TFGVI4oufl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/CHANNEL-13.png" group-title="ISRAEL VIP",ISR| CHANNEL 13
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59329&extension=ts&play_token=musKWUaQyw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/CHANNEL-21.png" group-title="ISRAEL VIP",ISR| CHANNEL 21
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163254&extension=ts&play_token=KMfUv5OJRw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CHANNEL-23.png" group-title="ISRAEL VIP",ISR| CHANNEL 23 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163255&extension=ts&play_token=tAz8rusphE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CHANNEL-24-IL.jpeg" group-title="ISRAEL VIP",ISR| CHANNEL 24
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163256&extension=ts&play_token=xPt6UBF6w7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CHANNEL-66.jpg" group-title="ISRAEL VIP",ISR| CHANNEL 66
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163257&extension=ts&play_token=WUHbdSeWct
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CHANNEL-97.png" group-title="ISRAEL VIP",ISR| CHANNEL 97
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163258&extension=ts&play_token=I3xpjvXS8A
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/discovery.png" group-title="ISRAEL VIP",ISR| DISCOVERY HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59327&extension=ts&play_token=jcsUecvqof
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/DISNEY-JR-HEB.png" group-title="ISRAEL VIP",ISR| DISNEY JR HEB
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37725&extension=ts&play_token=1UPHV3n02M
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/DISNEY-JR-RUS.png" group-title="ISRAEL VIP",ISR| DISNEY JR RUS
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37724&extension=ts&play_token=s1lYG7ZDLp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/EGO-TOTAL.png" group-title="ISRAEL VIP",ISR| EGO TOTAL
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37722&extension=ts&play_token=dHnHSnM5hd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/FASHION.png" group-title="ISRAEL VIP",ISR| FASHION TV HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=79234&extension=ts&play_token=rrJbevYcIl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/FOOD-NETWORK.png" group-title="ISRAEL VIP",ISR| FOOD CHANNEL
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37720&extension=ts&play_token=DQc28mE2ss
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/FOOD-NETWORK.png" group-title="ISRAEL VIP",ISR| FOOD NETWORK
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37719&extension=ts&play_token=BMBDxmITMS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/GOOD-LIFE.png" group-title="ISRAEL VIP",ISR| GOOD LIFE
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37716&extension=ts&play_token=MpsDTwDLpV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HEALTH-CH.png" group-title="ISRAEL VIP",ISR| HEALTH CH.
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59326&extension=ts&play_token=sW2aVoPQPV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HIDABROOT.png" group-title="ISRAEL VIP",ISR| HIDABROOT
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37731&extension=ts&play_token=YUB89qxSaB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HISTORY.png" group-title="ISRAEL VIP",ISR| HISTORY HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59325&extension=ts&play_token=4gOrqKLhic
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YESHOMEPLUS.png" group-title="ISRAEL VIP",ISR| HOME PLUS
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37714&extension=ts&play_token=com7xHbMDA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HOP.png" group-title="ISRAEL VIP",ISR| HOP HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59324&extension=ts&play_token=MnznVbWQWA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HOT-3.png" group-title="ISRAEL VIP",ISR| HOT 3 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37683&extension=ts&play_token=Wb06KyTWHd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HOT-BOLLYWOOD.png" group-title="ISRAEL VIP",ISR| HOT BOLLYWOOD HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=79241&extension=ts&play_token=ZB5pPWymx4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HOT-CHANNEL-8.png" group-title="ISRAEL VIP",ISR| HOT CHANNEL 8 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=79252&extension=ts&play_token=KvWUrBx1J2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HOT-COMEDY-CENTRAL.png" group-title="ISRAEL VIP",ISR| HOT COMEDY CENTRAL HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59322&extension=ts&play_token=xRGWz4RSyO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HOT-ENTERTAINMENT.png" group-title="ISRAEL VIP",ISR| HOT ENTERTAINMENT HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=79251&extension=ts&play_token=JCWx98nDXo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HOT-HOP.png" group-title="ISRAEL VIP",ISR| HOT HOP
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59321&extension=ts&play_token=Rfi92ix27S
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HOT.png" group-title="ISRAEL VIP",ISR| HOT LULLI
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59320&extension=ts&play_token=YmQ55yVlED
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HOT-ZONE.png" group-title="ISRAEL VIP",ISR| HOT ZONE HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37676&extension=ts&play_token=PaSMknPwhN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/I24-NEWS.png" group-title="ISRAEL VIP",ISR| I24 NEWS
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1550853&extension=ts&play_token=gffVO86lC1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/juniorhd.jpg" group-title="ISRAEL VIP",ISR| JUNIOR HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37712&extension=ts&play_token=mz8tcnZf24
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/KAN-EDU.png" group-title="ISRAEL VIP",ISR| KAN EDU
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37711&extension=ts&play_token=zXUzjmRxPY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/KESHET.png" group-title="ISRAEL VIP",ISR| KESHET HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37710&extension=ts&play_token=8Zb655CI4q
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/KNESSET.png" group-title="ISRAEL VIP",ISR| KNESSET
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37709&extension=ts&play_token=3SbOwTHmDD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/MTV-MUSIC.png" group-title="ISRAEL VIP",ISR| MTV MUSIC
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59318&extension=ts&play_token=ohjO9SkX8A
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/MUSIC-24.png" group-title="ISRAEL VIP",ISR| MUSIC 24
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37706&extension=ts&play_token=Du1pz2r350
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeohd.png" group-title="ISRAEL VIP",ISR| NAT GEO HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37705&extension=ts&play_token=hpKMs941FD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeohd.png" group-title="ISRAEL VIP",ISR| NAT GEO SD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37704&extension=ts&play_token=vIzaIqi7AP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/natgeowild.png" group-title="ISRAEL VIP",ISR| NAT GEO WILD HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37703&extension=ts&play_token=tHbSfrEnaF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/NICK-JR.png" group-title="ISRAEL VIP",ISR| NICK JR
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59317&extension=ts&play_token=SKwRromoh8
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/NICKELODEON.png" group-title="ISRAEL VIP",ISR| NICKELODEON
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59316&extension=ts&play_token=ewAC3d2Fd1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/ONE-2.png" group-title="ISRAEL VIP",ISR| ONE 2 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37701&extension=ts&play_token=twjBP86rRf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/RESHET-13.png" group-title="ISRAEL VIP",ISR| RESHET 13 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37700&extension=ts&play_token=tRzqHcXHSl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/SPORT-1.png" group-title="ISRAEL VIP",ISR| SPORT 1 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37697&extension=ts&play_token=ITPkdACDDy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sport2.jpg" group-title="ISRAEL VIP",ISR| SPORT 2 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37696&extension=ts&play_token=SryJPOViBA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT3.png" group-title="ISRAEL VIP",ISR| SPORT 3 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37695&extension=ts&play_token=DqK2k36gWU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT4.png" group-title="ISRAEL VIP",ISR| SPORT 4 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37694&extension=ts&play_token=tiSDOm2WCy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/sport5.jpg" group-title="ISRAEL VIP",ISR| SPORT 5 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37691&extension=ts&play_token=uUaItCKuzc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/SPORT-5-PLUS.png" group-title="ISRAEL VIP",ISR| SPORT 5 PLUS HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37689&extension=ts&play_token=7EiW7VBHT9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/SPORT-5-STARS.png" group-title="ISRAEL VIP",ISR| SPORT 5 STARS HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37688&extension=ts&play_token=Xr2bKAIBzD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/SPORT-LIVE-5.png" group-title="ISRAEL VIP",ISR| SPORT LIVE 5 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37690&extension=ts&play_token=qvMBtm49EP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/SPORT5-GOLD.png" group-title="ISRAEL VIP",ISR| SPORT5 GOLD HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37692&extension=ts&play_token=qAbD4lEKkR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/TRAVEL-CHANNEL.png" group-title="ISRAEL VIP",ISR| TRAVEL CHANNEL HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37658&extension=ts&play_token=ceaEkHzDqY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/VIVA.png" group-title="ISRAEL VIP",ISR| VIVA HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37686&extension=ts&play_token=kfxzLTaHkg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/VIVA-PLUS.png" group-title="ISRAEL VIP",ISR| VIVA PLUS HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37685&extension=ts&play_token=mg2o1qK4Ue
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/WIZ.png" group-title="ISRAEL VIP",ISR| WIZ HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=79247&extension=ts&play_token=8TGF5P3quB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yamtahoni.jpg" group-title="ISRAEL VIP",ISR| YAM TIHONI
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59314&extension=ts&play_token=c02Tl3wW3Y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yes3.jpeg" group-title="ISRAEL VIP",ISR| YES 3 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37672&extension=ts&play_token=WXN48Xfrvs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-4.png" group-title="ISRAEL VIP",ISR| YES 4 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37671&extension=ts&play_token=uB33O5XFJu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-ACTION.png" group-title="ISRAEL VIP",ISR| YES ACTION HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37669&extension=ts&play_token=V9isjXGVnB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-DOCU.png" group-title="ISRAEL VIP",ISR| YES COMEDY HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37668&extension=ts&play_token=Hit4BTXQSj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-DOCU.png" group-title="ISRAEL VIP",ISR| YES DOCU HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37667&extension=ts&play_token=x510tXkU8a
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-DRAMA.png" group-title="ISRAEL VIP",ISR| YES DRAMA HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37666&extension=ts&play_token=ltqfNTD5Ni
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-E.png" group-title="ISRAEL VIP",ISR| YES E!
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37723&extension=ts&play_token=t3UPXwF4Il
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yesisraelcinema.jpg" group-title="ISRAEL VIP",ISR| YES ISREALI CINEMA HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59313&extension=ts&play_token=OqHCBGUNSL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yeskids.png" group-title="ISRAEL VIP",ISR| YES KIDS HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=79248&extension=ts&play_token=1bkVE5Ur6R
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-MOVIES-ACTION.png" group-title="ISRAEL VIP",ISR| YES MOVIES ACTION
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37674&extension=ts&play_token=qEanMXmnWg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-MOVIES-ACTION.png" group-title="ISRAEL VIP",ISR| YES MOVIES ACTION HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37673&extension=ts&play_token=WDlHHUXV32
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-MOVIES-KIDS.png" group-title="ISRAEL VIP",ISR| YES MOVIES KIDS
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37670&extension=ts&play_token=UvEsedNbOn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/onehd.png" group-title="ISRAEL VIP",ISR| YES ONE HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37702&extension=ts&play_token=WyGnQ94yUi
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-ONE2.png" group-title="ISRAEL VIP",ISR| YES ONE2 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=872721&extension=ts&play_token=5oIVIoOjMj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-1.png" group-title="ISRAEL VIP",ISR| YES SPORT 1 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37664&extension=ts&play_token=i9qPOScWYN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-2.png" group-title="ISRAEL VIP",ISR| YES SPORT 2 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37663&extension=ts&play_token=MUcAuKBGNY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-3.png" group-title="ISRAEL VIP",ISR| YES SPORT 3 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37662&extension=ts&play_token=4QqZkFvZBn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-4.png" group-title="ISRAEL VIP",ISR| YES SPORT 4 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37659&extension=ts&play_token=nS8o55Sipk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-5.png" group-title="ISRAEL VIP",ISR| YES SPORT 5 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=37661&extension=ts&play_token=O06yWzQCtB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-5-PLUS.png" group-title="ISRAEL VIP",ISR| YES SPORT 5 PLUS FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=79233&extension=ts&play_token=4GomkPR4Xg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-ONE.png" group-title="ISRAEL VIP",ISR| YES SPORT ONE HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=79232&extension=ts&play_token=RSSRP7OS7t
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/ZOOM.png" group-title="ISRAEL VIP",ISR| ZOOM TV
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=59311&extension=ts&play_token=7LAz5rec2s
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ISRAEL.png" group-title="ISRAEL HD",##### ISRAEL HD #####
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035484&extension=ts&play_token=K6fin0SBtd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-4.png" group-title="ISRAEL HD",ISR| YES CHANNEL 9 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035249&extension=ts&play_token=QFwDuydYqX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/CHANNEL-11.png" group-title="ISRAEL HD",ISR| YES CHANNEL 11 KAN FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035254&extension=ts&play_token=ynPOB5CrOg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CHANNEL-12-IL.png" group-title="ISRAEL HD",ISR| YES CHANNEL 12 KESHET FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035253&extension=ts&play_token=uHiD93X8Wo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-CHANNEL-13-RESHET.png" group-title="ISRAEL HD",ISR| YES CHANNEL 13 RESHET FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035252&extension=ts&play_token=LyIs91GGDL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-CHANNEL-14.png" group-title="ISRAEL HD",ISR| YES CHANNEL 14 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035250&extension=ts&play_token=OzxhYGTBPM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-CHANNEL-33-MAKAN.png" group-title="ISRAEL HD",ISR| YES CHANNEL 33 MAKAN HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035255&extension=ts&play_token=Kx6uhgBVS6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KNESET.png" group-title="ISRAEL HD",ISR| YES KNESET HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035246&extension=ts&play_token=HYwurnnvhy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-HALA.png" group-title="ISRAEL HD",ISR| YES HALA TV
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035226&extension=ts&play_token=Jsmm05XZYj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/ANIMAL-PLANET.png" group-title="ISRAEL HD",ISR| YES ANIMAL PLANET
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035238&extension=ts&play_token=T6x9jG1UM3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/BABY-TV-HD.png" group-title="ISRAEL HD",ISR| YES BABY TV
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035237&extension=ts&play_token=3ERRFFvPAY
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-CBS.png" group-title="ISRAEL HD",ISR| YES CBS HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035236&extension=ts&play_token=H7kXvqLcsc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-DISCOVERY.png" group-title="ISRAEL HD",ISR| YES DISCOVERY FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035235&extension=ts&play_token=3BGf1FuQcA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-DISNEY.png" group-title="ISRAEL HD",ISR| YES DISNEY FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035234&extension=ts&play_token=e5dNyTnvzs
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-JUNIOR.png" group-title="ISRAEL HD",ISR| YES JUNIOR FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035233&extension=ts&play_token=gI754DEUyS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-DOCU-4H.png" group-title="ISRAEL HD",ISR| YES DOCU 4H
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035232&extension=ts&play_token=H9gPFgMgIa
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-E.png" group-title="ISRAEL HD",ISR| YES E
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035231&extension=ts&play_token=uKYxEPRpOz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-EGO-TOTAL.png" group-title="ISRAEL HD",ISR| YES EGO TOTAL HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035230&extension=ts&play_token=nZaPJG62ZH
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-FOOD-CHANNEL.png" group-title="ISRAEL HD",ISR| YES FOOD CHANNEL
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035228&extension=ts&play_token=uiyuuYr5r6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YESGOODLIFE.png" group-title="ISRAEL HD",ISR| YES GOOD LIFE
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035227&extension=ts&play_token=V5wfrmVQnL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-HEALTH-CHANNEL.png" group-title="ISRAEL HD",ISR| YES HEALTH CHANNEL HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035225&extension=ts&play_token=axblkpSirU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HISTORY.png" group-title="ISRAEL HD",ISR| YES HISTORY FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035224&extension=ts&play_token=qy0krtjW1o
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HOME%20PLUS.jpeg" group-title="ISRAEL HD",ISR| YES HOME PLUS FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035223&extension=ts&play_token=xXlm6pNeR4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-HOP-CHILDHOOD.png" group-title="ISRAEL HD",ISR| YES HOP CHILDHOOD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035222&extension=ts&play_token=H74qNmdZ6l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-HOP-CHILDHOOD.png" group-title="ISRAEL HD",ISR| YES HOP! HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035221&extension=ts&play_token=N3xi6JOXk4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-4.png" group-title="ISRAEL HD",ISR| YES ISRAELI CINEMA
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035220&extension=ts&play_token=Nf317Z74Vu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-JUNIOR.png" group-title="ISRAEL HD",ISR| YES JUNIOR
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035219&extension=ts&play_token=ssz6EpbGBm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-LOGI.png" group-title="ISRAEL HD",ISR| YES LOGI
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035217&extension=ts&play_token=l2kG7oXrh6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/makan.png" group-title="ISRAEL HD",ISR| YES MAKAN FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035216&extension=ts&play_token=ekW8nTYXKd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-MOVIES-DRAMA.png" group-title="ISRAEL HD",ISR| YES MOVIES DRAMA FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035213&extension=ts&play_token=BVDRMbGYBy
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-MOVIES-ACTION.png" group-title="ISRAEL HD",ISR| YES MOVIES ACTION FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035215&extension=ts&play_token=NeKywd0pxK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-MOVIES-COMEDY.png" group-title="ISRAEL HD",ISR| YES MOVIES COMEDY FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035214&extension=ts&play_token=cE3wEuXJ4S
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-MOVIES-KIDS.png" group-title="ISRAEL HD",ISR| YES MOVIES KIDS FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035212&extension=ts&play_token=WBqCxYRkF5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mtvmusic.png" group-title="ISRAEL HD",ISR| YES CLUB MTV
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035211&extension=ts&play_token=HQhsQEy9vg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/mtvmusic24.png" group-title="ISRAEL HD",ISR| YES MUSIC 24 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035210&extension=ts&play_token=Ut4bSMVolB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographic.png" group-title="ISRAEL HD",ISR| YES NATIONAL GEOGRAPHIC FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035209&extension=ts&play_token=Foi1veq19x
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nationalgeographicwild.png" group-title="ISRAEL HD",ISR| YES NG WILD FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035208&extension=ts&play_token=fiJ8s8qSlj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NICK-JR-HD.png" group-title="ISRAEL HD",ISR| YES NICK JR FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035207&extension=ts&play_token=tI4Ej3qv4k
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/NICKELODEON-HD.png" group-title="ISRAEL HD",ISR| YES NICKELODEON FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035206&extension=ts&play_token=hj038TUr0c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TEEN-NICK.jpg" group-title="ISRAEL HD",ISR| YES TEEN NICK HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035258&extension=ts&play_token=Ixnp4boA3V
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ONE.png" group-title="ISRAEL HD",ISR| YES ONE HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035205&extension=ts&play_token=ybirkfhzU2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yessport1.jpg" group-title="ISRAEL HD",ISR| YES SPORT 1 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035204&extension=ts&play_token=o7SyUI6T1J
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yessport1.jpg" group-title="ISRAEL HD",ISR| YES SPORT 1 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035203&extension=ts&play_token=Yi6vr2sOWd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yessport2.jpg" group-title="ISRAEL HD",ISR| YES SPORT 2 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035202&extension=ts&play_token=iJrquNgcjm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yessport2.jpg" group-title="ISRAEL HD",ISR| YES SPORT 2 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035201&extension=ts&play_token=ZotMPPXbbV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yessport3.png" group-title="ISRAEL HD",ISR| YES SPORT 3 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035200&extension=ts&play_token=n4A0nkGohB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yessport3.png" group-title="ISRAEL HD",ISR| YES SPORT 3 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035199&extension=ts&play_token=aYxCsLLG7w
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yessport4.png" group-title="ISRAEL HD",ISR| YES SPORT 4 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035198&extension=ts&play_token=uQydo7bsLv
+#EXTINF:-1 tvg-logo="" group-title="ISRAEL HD",ISR| YES SPORT 4 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035197&extension=ts&play_token=GErARs9ASL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-5.png" group-title="ISRAEL HD",ISR| YES SPORT 5 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035196&extension=ts&play_token=xmUgsvFC0y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-5.png" group-title="ISRAEL HD",ISR| YES SPORT 5 GOLD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035194&extension=ts&play_token=6f4uGhY643
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-5.png" group-title="ISRAEL HD",ISR| YES SPORT 5 PLUS FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035193&extension=ts&play_token=GwJuoScqNJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-5.png" group-title="ISRAEL HD",ISR| YES SPORT 5 PLUS FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035192&extension=ts&play_token=zmnoOoG39F
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-5.png" group-title="ISRAEL HD",ISR| YES SPORT 5 PLUS LIVE FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035191&extension=ts&play_token=DLgGjLQjCN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-SPORT-5.png" group-title="ISRAEL HD",ISR| YES SPORT 5 STARS FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035190&extension=ts&play_token=mKNaK3EGx7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yessportone.png" group-title="ISRAEL HD",ISR| YES SPORT ONE FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035189&extension=ts&play_token=IREuyNWPkC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TRAVEL-CHANNEL-HD.png" group-title="ISRAEL HD",ISR| YES TRAVEL CHANNELL
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035187&extension=ts&play_token=esmiLk1ctk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/yesdrama.jpg" group-title="ISRAEL HD",ISR| YES TV  DRAMA FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035186&extension=ts&play_token=t0jM90jPF3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-MOVIES-ACTION.png" group-title="ISRAEL HD",ISR| YES TV ACTION FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035185&extension=ts&play_token=3prs88gvwq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/YES-MOVIES-COMEDY.png" group-title="ISRAEL HD",ISR| YES TV COMEDY FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035184&extension=ts&play_token=aMoQFy9uSl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIVA.jpeg" group-title="ISRAEL HD",ISR| YES VIVA FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035183&extension=ts&play_token=tcT4ItLJZ1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/VIVa+.jpeg" group-title="ISRAEL HD",ISR| YES VIVA PLUS
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035182&extension=ts&play_token=WnRxLrYDhz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/wizhd.png" group-title="ISRAEL HD",ISR| YES WIZ KIDS
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035181&extension=ts&play_token=CV34K6b8Xk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/YAM-TICHONI.png" group-title="ISRAEL HD",ISR| YES YAM TIHONI FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035180&extension=ts&play_token=B2ybURwscg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/zoom.png" group-title="ISRAEL HD",ISR| YES ZOOM TOON
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035179&extension=ts&play_token=z25cBkcopF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/bollywoodhd.png" group-title="ISRAEL HD",ISR| BOLLYWOOD FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035280&extension=ts&play_token=GMggW8h0EL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/fashion.png" group-title="ISRAEL HD",ISR| FASHION TV
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035279&extension=ts&play_token=SRhaHovTVc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HIDABROUT.png" group-title="ISRAEL HD",ISR| HIDABROOT
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035277&extension=ts&play_token=o9x31rKDdN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/KABALAH.png" group-title="ISRAEL HD",ISR| KABBALAH TV
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035248&extension=ts&play_token=xoWqH8QgHw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CHANNEL-12-IL.png" group-title="ISRAEL HD",ISR| KESHET 12 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035247&extension=ts&play_token=bwijDdSCel
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ONE-TV-IL.png" group-title="ISRAEL HD",ISR| ONE FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035244&extension=ts&play_token=U3Nid2fM2t
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CBS-REALITY.png" group-title="ISRAEL HD",ISR| REALITY CHANNELL
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035243&extension=ts&play_token=AIKJxhi85W
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CHANNEL-13-IL.png" group-title="ISRAEL HD",ISR| RESHET 13 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035242&extension=ts&play_token=uAkvVYhTzr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MTV-HD.png" group-title="ISRAEL HD",ISR| MTV HITS
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163281&extension=ts&play_token=YBk7KDVIav
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MTV-HD.png" group-title="ISRAEL HD",ISR| MTV 80S
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163280&extension=ts&play_token=VL8lfnTd7G
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/MTV-HD.png" group-title="ISRAEL HD",ISR| MTV 00S
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163279&extension=ts&play_token=jqzRr0OmdK
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TURKISH-DRAMA.png" group-title="ISRAEL HD",ISR| TURKISH DRAMA FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035239&extension=ts&play_token=1zo7ND9Oyx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TURKISH-DRAMA.png" group-title="ISRAEL HD",ISR| TURKISH DRAMA 2 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035240&extension=ts&play_token=POpJo791ZF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TURKISH-DRAMA.png" group-title="ISRAEL HD",ISR| TURKISH DRAMA 3 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163272&extension=ts&play_token=pdRwcHFLTU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TURKISH-DRAMA.png" group-title="ISRAEL HD",ISR| TURKISH DRAMA PLUS FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163273&extension=ts&play_token=LfEvjEa7bF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HOT%203.png" group-title="ISRAEL HD",ISR| HOT 3 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035276&extension=ts&play_token=L9e6M7VIpj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/bollywoodhd.png" group-title="ISRAEL HD",ISR| HOT BOLYWOOD FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035273&extension=ts&play_token=RbDTkvgjkw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HOT-CINEMA-IL.png" group-title="ISRAEL HD",ISR| HOT CINEMA 1 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163265&extension=ts&play_token=zKCGThwPR2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HOT-CINEMA-IL.png" group-title="ISRAEL HD",ISR| HOT CINEMA 2 HFD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163266&extension=ts&play_token=6JPvyPa4gO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HOT-CINEMA-IL.png" group-title="ISRAEL HD",ISR| HOT CINEMA 3 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163267&extension=ts&play_token=NmS2WTT819
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HOT-CINEMA-IL.png" group-title="ISRAEL HD",ISR| HOT CINEMA 4 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163268&extension=ts&play_token=cM8LA3uvnO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HOT-8-IL.png" group-title="ISRAEL HD",ISR| HOT CHANNEL 8 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035271&extension=ts&play_token=cdtYrZQA1V
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/hotcomedycentral.png" group-title="ISRAEL HD",ISR| HOT COMEDY CENTRAL FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035270&extension=ts&play_token=HoY83nDt9r
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/E!-ENTERTAINMENT-HD.jpeg" group-title="ISRAEL HD",ISR| HOT ENTERTAINMENT FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035267&extension=ts&play_token=4JxohUSJQU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FOOD-NETWORK-HD.jpg" group-title="ISRAEL HD",ISR| HOT FOOD CHANNEL
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035266&extension=ts&play_token=uiFToRgeBv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/hothop.jpg" group-title="ISRAEL HD",ISR| HOT HOP HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035262&extension=ts&play_token=kq0mqdil2d
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/hotlulli.jpg" group-title="ISRAEL HD",ISR| HOT LULI
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035260&extension=ts&play_token=ZY1SKCOn5a
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/hotzone.jpg" group-title="ISRAEL HD",ISR| HOT ZONE FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1035257&extension=ts&play_token=Rf46t04j2y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ASIA/HOT.png.1" group-title="ISRAEL HD",ISR| HOT YALDUT
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163269&extension=ts&play_token=Qsmd1GjZSu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/TLC.png" group-title="ISRAEL HD",ISR| TLC
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163284&extension=ts&play_token=dsLhv4L6tk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SHOPPING-CHANNEL-IL.png" group-title="ISRAEL HD",ISR| SHOPPING
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163283&extension=ts&play_token=SiNQ1yrqhW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/jimjam.png" group-title="ISRAEL HD",ISR| JIM JAM
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163276&extension=ts&play_token=ixq3gv2pWA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/ID.png" group-title="ISRAEL HD",ISR| ID
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163275&extension=ts&play_token=snivxQfDPG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/i24news.png" group-title="ISRAEL HD",ISR| I24 NEWS HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163274&extension=ts&play_token=43CjiJCh1X
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROSPORT-1.png" group-title="ISRAEL HD",ISR| EUROSPORT 1 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163260&extension=ts&play_token=vue4B0GoJg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/EUROSPORT2.png" group-title="ISRAEL HD",ISR| EUROSPORT 2 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:AB:51:FB&stream=1163261&extension=ts&play_token=u4EAXrxYWg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EUROPE/DISCOVERYSCIENCE.png" group-title="ISRAEL HD",ISR| DISCOVERY SCIENCE
